@@ -1,16 +1,4 @@
 #include "main.h"
-
-/**
- * main - Entry point
- *
- * Return: Always 0 (success)
- */
-
- int main(void)
-{
-	_putchar("_");
-	_putchar("p");
-0-putchar.#include "main.h"
 	/**
 	 * main - print _putchar
 	 * is written by mbah
@@ -31,3 +19,4 @@
 	_putchar('\n');
 	return (0);
 	}
+
